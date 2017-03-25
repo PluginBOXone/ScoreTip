@@ -1,0 +1,6 @@
+﻿name: ScoreTip
+version: 1.0
+main: ScoreTip\Main
+author: PluginBOXone
+load: POSTWORLD
+api: [1.0.0, 2.0.0, 2.1.0, 3.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3]
